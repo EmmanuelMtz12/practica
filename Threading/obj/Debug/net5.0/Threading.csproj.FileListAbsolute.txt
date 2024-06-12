@@ -1,0 +1,16 @@
+C:\Users\pollo\source\repos\Threading\Threading\bin\Debug\net5.0\Threading.exe
+C:\Users\pollo\source\repos\Threading\Threading\bin\Debug\net5.0\Threading.deps.json
+C:\Users\pollo\source\repos\Threading\Threading\bin\Debug\net5.0\Threading.runtimeconfig.json
+C:\Users\pollo\source\repos\Threading\Threading\bin\Debug\net5.0\Threading.runtimeconfig.dev.json
+C:\Users\pollo\source\repos\Threading\Threading\bin\Debug\net5.0\Threading.dll
+C:\Users\pollo\source\repos\Threading\Threading\bin\Debug\net5.0\Threading.pdb
+C:\Users\pollo\source\repos\Threading\Threading\obj\Debug\net5.0\Threading.csproj.AssemblyReference.cache
+C:\Users\pollo\source\repos\Threading\Threading\obj\Debug\net5.0\Threading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pollo\source\repos\Threading\Threading\obj\Debug\net5.0\Threading.AssemblyInfoInputs.cache
+C:\Users\pollo\source\repos\Threading\Threading\obj\Debug\net5.0\Threading.AssemblyInfo.cs
+C:\Users\pollo\source\repos\Threading\Threading\obj\Debug\net5.0\Threading.csproj.CoreCompileInputs.cache
+C:\Users\pollo\source\repos\Threading\Threading\obj\Debug\net5.0\Threading.dll
+C:\Users\pollo\source\repos\Threading\Threading\obj\Debug\net5.0\ref\Threading.dll
+C:\Users\pollo\source\repos\Threading\Threading\obj\Debug\net5.0\Threading.pdb
+C:\Users\pollo\source\repos\Threading\Threading\obj\Debug\net5.0\Threading.genruntimeconfig.cache
+C:\Users\pollo\source\repos\Threading\Threading\obj\Debug\net5.0\refint\Threading.dll
